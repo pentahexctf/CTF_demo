@@ -1,0 +1,5 @@
+ascii <-- hex <-- base64
+democtf{E@sy_C0nV3rSi0ns}
+64 65 6d 6f 63 74 66 7b 45 40 73 79 5f 43 30 6e 56 33 72 53 69 30 6e 73 7d
+NjQgNjUgNmQgNmYgNjMgNzQgNjYgN2IgNDUgNDAgNzMgNzkgNWYgNDMgMzAgNmUgNTYgMzMgNzIgNTMgNjkgMzAgNmUgNzMgN2Q=
+
