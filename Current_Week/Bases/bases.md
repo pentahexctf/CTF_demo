@@ -4,9 +4,9 @@ Difficulty: intro
 ---
 ## TUTORIAL
 * Humans use a number system called Base10 because we have 10 fingers.
-* We count to 10 then move into the next DECIMAL (decimal means base10)
+* We count to 10 then move into the next DECIMAL place (decimal means base10)
 - We count to 10 then OVERFLOW into the next place
-    * The OVERFLOW is set to 10
+    * i.e. after 9 then you set the first int to 1 and the next to 0 --> 10
 * In base2 the overflow is set to 2 and in base16 its overflowed at 16
 ```
 Boundary is the base number
