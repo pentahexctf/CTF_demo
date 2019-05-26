@@ -51,4 +51,6 @@ Convert YXBwbGViZWFucw== to ASCII (i.e. readable text)
 
 ---
 
-Convert to ASCII (i.e. readable text)
+Convert 0110110101100001011100100110101101100100011011110111011101101110 to ASCII (i.e. readable text)
+
+---
